@@ -1,3 +1,16 @@
+# Flipr-NobelPrize
+### Deliverable for Flipr Internship Screening
+
+# Steps to Run the webapp
+
+1. Clone the repository to local environment.
+2. In the folder open cmd/terminal and run ```npm i``` command to get the node_modules folder
+3. To see the result on local browser run the command ```npm start```
+4. The result will be displayed in the [http://localhost:3000](http://localhost:3000) in your browser.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
